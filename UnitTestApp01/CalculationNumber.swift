@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+class CalculationNumber {
+    // テスト対象の関数
+    func Add(a: Int, b: Int) -> Int {
+        return a + b
+    }
+}
